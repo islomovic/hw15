@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightblue;
+}
+.accord{
+    max-width: 500px;
+    margin: 0 70;
+    background-color: rgb(94, 233, 89);
+    height: auto;
+}
+.sum{
+    padding: 16px 26px;
+    width: 100%;
+    background-color: rgb(91, 91, 192);
+    cursor: pointer;
+    transition: 2s;
+}
+.word:hover{
+    padding: 16px 26px;
+    width: 100%;
+    background-color: rgb(165, 165, 190);
+    cursor: pointer;
+    transition: 2s;
+}
+.fs-4{
+   position: relative;
+   left: -365px;
+}
+.accord2{
+    max-width: 500px;
+    position: relative;
+    top: -245px;
+    left: 630px;
+    background-color: rgb(94, 233, 89);
+    height: auto;
+}
